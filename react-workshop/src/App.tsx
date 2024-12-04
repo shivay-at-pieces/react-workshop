@@ -21,7 +21,7 @@ export default function App() {
     <main className="bg-gray-100 min-h-screen p-4">
       <div className="max-w-3xl mx-auto bg-white rounded-lg shadow-md overflow-hidden">
         <h1 className="text-3xl font-bold text-center p-4 bg-blue-500 text-white">
-          React Alicante Ollama Workshop
+          React Ollama Workshop
         </h1>
         
         <div className="h-96 overflow-y-auto p-4 space-y-4">
