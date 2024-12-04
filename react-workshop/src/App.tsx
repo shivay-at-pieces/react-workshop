@@ -20,7 +20,7 @@ export default function App() {
       <div className="relative h-full w-full transition-width flex flex-col overflow-hidden items-stretch flex-1">
         <div className="flex-1 overflow-hidden dark:bg-gray-800">
             <h1 className="text-2xl sm:text-4xl font-semibold text-center text-gray-200 dark:text-gray-600 flex gap-4 p-4 items-center justify-center">
-             React Alicante Ollama Workshop
+             React Ollama Workshop
             </h1>
           <div className="h-full ">
             <div className="h-full flex flex-col items-center text-sm dark:bg-gray-800">
