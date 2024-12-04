@@ -1,4 +1,4 @@
-# React Alicante Ollama Workshop
+# React Ollama Workshop
 
 ## Prerequisites
 
@@ -20,7 +20,7 @@ The application we'll be building today is using [Vite](https://vitejs.dev/), a 
 We need to set up the initial, bootstrapped application for this workshop. Run the following commands to set it up:
 
 ```bash
-cd alicante-workshop
+cd react-workshop
 npm install
 npm run dev
 ```
